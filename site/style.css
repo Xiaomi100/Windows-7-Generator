@@ -1,0 +1,20 @@
+body {
+    background-color: rgb(126, 226, 226);
+    font-family: consolas;
+    font: bold;
+}
+p{
+    font-size: 20px;
+}
+h2 {
+    color: orange;
+}
+h1{
+    color: red;
+}
+h3{
+    color: yellow;
+}
+h4{
+    color: green;
+}
