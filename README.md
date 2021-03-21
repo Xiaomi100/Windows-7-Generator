@@ -1,8 +1,12 @@
 # Windows 7 Generator
 ---
-__Welcome to my Windows 7 Generator!__
+__Welcome to my project!__
+---
+_PLEASE READ ME!!!_
 
 ---
-Folders and files :
->Windows-7-Generator
->README. md(me)
+How to use Generator
+1. Start Windows.py
+2. Type username
+3. Select icon
+4. ___Good Luck!)))___
