@@ -11,3 +11,6 @@ Folders and files :
 >>site
 >>index.html
 >>style.css
+
+[The site how to start](site/index.html)
+[site](https://Xiaomi100.github.io/Windows-7-Generator)
