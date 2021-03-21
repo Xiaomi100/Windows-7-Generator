@@ -10,3 +10,5 @@ How to use Generator
 2. Type username
 3. Select icon
 4. ___Good Luck!)))___
+
+[Go to Main Site](https://xiaomi100.github.io/)
